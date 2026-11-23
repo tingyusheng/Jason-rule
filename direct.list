@@ -38,6 +38,3 @@ DOMAIN,yo.baidu.com,DIRECT
 DOMAIN-SUFFIX,bdstatic.com,DIRECT
 # 围观
 DOMAIN-SUFFIX,9ddm.Com,DIRECT
-# 临时
-DOMAIN,www.axxsw.net
-DOMAIN-SUFFIX,axxsw.net
